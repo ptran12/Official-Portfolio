@@ -5,3 +5,8 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+#index-banner {
+  background-image: url(../Assets/Images/bJqvjMP-dark-wood-wallpaper.jpg);
+  background-repeat: no-repeat;
+}
