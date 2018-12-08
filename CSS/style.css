@@ -9,7 +9,7 @@
 /* Background Image */
 #index-banner {
   background-image: url(../Assets/Images/bJqvjMP-dark-wood-wallpaper.jpg);
-  background-repeat: no-repeat;
+  background-repeat:repeat;
 }
 
 /* Bounce In */
@@ -36,4 +36,8 @@
 /* Color change in the projects section */
 .projects {
   color: black;
+}
+
+.overflow {
+  overflow: hidden;
 }
