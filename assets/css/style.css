@@ -22,7 +22,7 @@ section {
 .main {
   height: 100vh;
   width: 100%;
-  background-image: url("../Images/bJqvjMP-dark-wood-wallpaper.jpg");
+  background-image: url("../images/bJqvjMP-dark-wood-wallpaper.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -191,7 +191,7 @@ h2 {
 .portfolio {
   min-height: 100%;
   /* background: #0f0f0f; */
-  background-image: url("../Images/bJqvjMP-dark-wood-wallpaper.jpg");
+  background-image: url("../images/bJqvjMP-dark-wood-wallpaper.jpg");
 }
 
 .cards {
