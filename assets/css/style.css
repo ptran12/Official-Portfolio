@@ -1,9 +1,6 @@
-.parallax-container {
-  height: 400px;
-  position: relative;
-  overflow: hidden;
+body {
+  overflow-x:hidden;
 }
-
 .h100 {
   height: 100%;
 }
@@ -147,7 +144,7 @@ h2 {
 /* END ABOUT ME */
 
 /*  START CTA */
-
+/* 
 .bg-cta {
   position: relative;
   background-image: url("../Images/autumn-fog-forest-1287469.jpg");
@@ -174,9 +171,16 @@ h2 {
 #cta-button:hover {
   border: 1px solid lightslategray;
   background: lightslategray;
-}
+} */
 
 /* END CTA */
+
+
+.parallax-container {
+  height: 400px;
+  position: relative;
+  overflow: hidden;
+}
 
 /*  START PORTFOLIO */
 .container {
