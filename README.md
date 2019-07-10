@@ -7,4 +7,3 @@ Technologies Used:
 - CSS 
 - JavaScript 
 
-phitran.info
