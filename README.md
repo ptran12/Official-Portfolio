@@ -7,4 +7,4 @@ Technologies Used:
 - CSS 
 - JavaScript 
 
-https://ptran12.github.io/Official-Portfolio/
+Link: https://phitran.info/
